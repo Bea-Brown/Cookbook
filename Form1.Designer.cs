@@ -1,6 +1,6 @@
 ﻿namespace CookBook
 {
-    partial class MainForm
+    partial class Login
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,28 +28,28 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
-            Login = new Button();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
+            Log = new Button();
             Register = new Button();
-            email = new RichTextBox();
-            Password = new RichTextBox();
-            LabelEmail = new Label();
-            LabelPass = new Label();
+            richTextBox1 = new RichTextBox();
+            richTextBox2 = new RichTextBox();
+            email = new Label();
+            Password = new Label();
             pictureBox1 = new PictureBox();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
-            // Login
+            // Log
             // 
-            Login.BackColor = Color.FromArgb(255, 192, 128);
-            Login.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
-            Login.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            Login.Location = new Point(805, 873);
-            Login.Name = "Login";
-            Login.Size = new Size(228, 59);
-            Login.TabIndex = 0;
-            Login.Text = "Login";
-            Login.UseVisualStyleBackColor = false;
+            Log.BackColor = Color.FromArgb(255, 192, 128);
+            Log.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
+            Log.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            Log.Location = new Point(805, 873);
+            Log.Name = "Log";
+            Log.Size = new Size(228, 59);
+            Log.TabIndex = 0;
+            Log.Text = "Login";
+            Log.UseVisualStyleBackColor = false;
             // 
             // Register
             // 
@@ -63,45 +63,45 @@
             Register.Text = "Register";
             Register.UseVisualStyleBackColor = false;
             // 
+            // richTextBox1
+            // 
+            richTextBox1.Location = new Point(954, 496);
+            richTextBox1.Name = "richTextBox1";
+            richTextBox1.Size = new Size(352, 50);
+            richTextBox1.TabIndex = 8;
+            richTextBox1.Text = "";
+            // 
+            // richTextBox2
+            // 
+            richTextBox2.Location = new Point(954, 595);
+            richTextBox2.Name = "richTextBox2";
+            richTextBox2.Size = new Size(352, 50);
+            richTextBox2.TabIndex = 9;
+            richTextBox2.Text = "";
+            // 
             // email
             // 
-            email.Location = new Point(954, 496);
+            email.AutoSize = true;
+            email.BackColor = Color.Transparent;
+            email.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            email.ForeColor = SystemColors.ButtonHighlight;
+            email.Location = new Point(836, 496);
             email.Name = "email";
-            email.Size = new Size(352, 50);
-            email.TabIndex = 8;
-            email.Text = "";
+            email.Size = new Size(121, 48);
+            email.TabIndex = 10;
+            email.Text = "Email:";
             // 
             // Password
             // 
-            Password.Location = new Point(954, 595);
+            Password.AutoSize = true;
+            Password.BackColor = Color.Transparent;
+            Password.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            Password.ForeColor = SystemColors.ButtonHighlight;
+            Password.Location = new Point(768, 595);
             Password.Name = "Password";
-            Password.Size = new Size(352, 50);
-            Password.TabIndex = 9;
-            Password.Text = "";
-            // 
-            // LabelEmail
-            // 
-            LabelEmail.AutoSize = true;
-            LabelEmail.BackColor = Color.Transparent;
-            LabelEmail.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            LabelEmail.ForeColor = SystemColors.ButtonHighlight;
-            LabelEmail.Location = new Point(836, 496);
-            LabelEmail.Name = "LabelEmail";
-            LabelEmail.Size = new Size(121, 48);
-            LabelEmail.TabIndex = 10;
-            LabelEmail.Text = "Email:";
-            // 
-            // LabelPass
-            // 
-            LabelPass.AutoSize = true;
-            LabelPass.BackColor = Color.Transparent;
-            LabelPass.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            LabelPass.ForeColor = SystemColors.ButtonHighlight;
-            LabelPass.Location = new Point(768, 595);
-            LabelPass.Name = "LabelPass";
-            LabelPass.Size = new Size(189, 48);
-            LabelPass.TabIndex = 11;
-            LabelPass.Text = "Password:";
+            Password.Size = new Size(189, 48);
+            Password.TabIndex = 11;
+            Password.Text = "Password:";
             // 
             // pictureBox1
             // 
@@ -117,7 +117,7 @@
             pictureBox1.TabIndex = 12;
             pictureBox1.TabStop = false;
             // 
-            // MainForm
+            // Login
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -125,16 +125,16 @@
             BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(2083, 1106);
-            Controls.Add(LabelPass);
-            Controls.Add(LabelEmail);
             Controls.Add(Password);
             Controls.Add(email);
+            Controls.Add(richTextBox2);
+            Controls.Add(richTextBox1);
             Controls.Add(Register);
-            Controls.Add(Login);
+            Controls.Add(Log);
             Controls.Add(pictureBox1);
             DoubleBuffered = true;
             FormBorderStyle = FormBorderStyle.FixedToolWindow;
-            Name = "MainForm";
+            Name = "Login";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Chef's CookBook Login";
             Load += Form1_Load;
@@ -145,12 +145,12 @@
 
         #endregion
 
-        private Button Login;
+        private Button Log;
         private Button Register;
-        private RichTextBox email;
-        private RichTextBox Password;
-        private Label LabelEmail;
-        private Label LabelPass;
+        private RichTextBox richTextBox1;
+        private RichTextBox richTextBox2;
+        private Label email;
+        private Label Password;
         private PictureBox pictureBox1;
     }
 }

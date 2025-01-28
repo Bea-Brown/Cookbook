@@ -1,6 +1,6 @@
 ﻿namespace CookBook
 {
-    partial class Myrecipes
+    partial class Form4
     {
         /// <summary>
         /// Required designer variable.
@@ -28,12 +28,10 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Myrecipes));
             label1 = new Label();
-            Recipelist = new ListBox();
-            Back = new Button();
-            View = new Button();
-            NewRecipe = new Button();
+            listBox1 = new ListBox();
+            Register2 = new Button();
+            button1 = new Button();
             SuspendLayout();
             // 
             // label1
@@ -48,72 +46,57 @@
             label1.TabIndex = 0;
             label1.Text = "My Recipes";
             // 
-            // Recipelist
+            // listBox1
             // 
-            Recipelist.BackColor = Color.Tan;
-            Recipelist.FormattingEnabled = true;
-            Recipelist.ItemHeight = 25;
-            Recipelist.Location = new Point(251, 207);
-            Recipelist.Name = "Recipelist";
-            Recipelist.Size = new Size(1525, 704);
-            Recipelist.TabIndex = 1;
-            Recipelist.SelectedIndexChanged += listBox1_SelectedIndexChanged;
+            listBox1.BackColor = Color.Tan;
+            listBox1.FormattingEnabled = true;
+            listBox1.ItemHeight = 25;
+            listBox1.Location = new Point(251, 207);
+            listBox1.Name = "listBox1";
+            listBox1.Size = new Size(1525, 704);
+            listBox1.TabIndex = 1;
+            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
             // 
-            // Back
+            // Register2
             // 
-            Back.BackColor = Color.FromArgb(255, 192, 128);
-            Back.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
-            Back.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            Back.Location = new Point(12, 501);
-            Back.Name = "Back";
-            Back.Size = new Size(228, 59);
-            Back.TabIndex = 2;
-            Back.Text = "Back";
-            Back.UseVisualStyleBackColor = false;
+            Register2.BackColor = Color.FromArgb(255, 192, 128);
+            Register2.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
+            Register2.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            Register2.Location = new Point(678, 956);
+            Register2.Name = "Register2";
+            Register2.Size = new Size(228, 59);
+            Register2.TabIndex = 2;
+            Register2.Text = "Back";
+            Register2.UseVisualStyleBackColor = false;
             // 
-            // View
+            // button1
             // 
-            View.BackColor = Color.Transparent;
-            View.BackgroundImage = (Image)resources.GetObject("View.BackgroundImage");
-            View.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
-            View.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            View.Location = new Point(1068, 957);
-            View.Name = "View";
-            View.Size = new Size(256, 75);
-            View.TabIndex = 8;
-            View.Text = "View";
-            View.UseVisualStyleBackColor = false;
+            button1.BackColor = Color.FromArgb(255, 192, 128);
+            button1.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
+            button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button1.Location = new Point(1201, 956);
+            button1.Name = "button1";
+            button1.Size = new Size(228, 59);
+            button1.TabIndex = 3;
+            button1.Text = "Add";
+            button1.UseVisualStyleBackColor = false;
             // 
-            // NewRecipe
-            // 
-            NewRecipe.BackColor = Color.Transparent;
-            NewRecipe.BackgroundImage = (Image)resources.GetObject("NewRecipe.BackgroundImage");
-            NewRecipe.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
-            NewRecipe.Font = new Font("Segoe UI", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            NewRecipe.Location = new Point(646, 957);
-            NewRecipe.Name = "NewRecipe";
-            NewRecipe.Size = new Size(256, 75);
-            NewRecipe.TabIndex = 9;
-            NewRecipe.Text = "New Recipe";
-            NewRecipe.UseVisualStyleBackColor = false;
-            // 
-            // Myrecipes
+            // Form4
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.board;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(2083, 1106);
-            Controls.Add(NewRecipe);
-            Controls.Add(View);
-            Controls.Add(Back);
-            Controls.Add(Recipelist);
+            Controls.Add(button1);
+            Controls.Add(Register2);
+            Controls.Add(listBox1);
             Controls.Add(label1);
             DoubleBuffered = true;
             FormBorderStyle = FormBorderStyle.FixedToolWindow;
-            Name = "Myrecipes";
+            Name = "Form4";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Myrecipes";
+            Text = "Form4";
             ResumeLayout(false);
             PerformLayout();
         }
@@ -121,9 +104,8 @@
         #endregion
 
         private Label label1;
-        private ListBox Recipelist;
-        private Button Back;
-        private Button View;
-        private Button NewRecipe;
+        private ListBox listBox1;
+        private Button Register2;
+        private Button button1;
     }
 }

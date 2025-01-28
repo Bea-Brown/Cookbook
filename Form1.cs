@@ -1,8 +1,8 @@
 namespace CookBook
 {
-    public partial class MainForm : Form
+    public partial class Login : Form
     {
-        public MainForm()
+        public Login()
         {
             InitializeComponent();
         }

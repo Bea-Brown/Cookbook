@@ -1,6 +1,6 @@
 ﻿namespace CookBook
 {
-    partial class Form7
+    partial class Form8
     {
         /// <summary>
         /// Required designer variable.
@@ -30,15 +30,13 @@
         {
             SuspendLayout();
             // 
-            // Form7
+            // Form8
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(2083, 1106);
-            FormBorderStyle = FormBorderStyle.SizableToolWindow;
-            Name = "Form7";
-            StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form7";
+            Name = "Form8";
+            Text = "Form8";
             ResumeLayout(false);
         }
 
