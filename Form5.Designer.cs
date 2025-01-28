@@ -1,6 +1,6 @@
 ﻿namespace CookBook
 {
-    partial class Form5
+    partial class Newrecipe
     {
         /// <summary>
         /// Required designer variable.
@@ -28,94 +28,94 @@
         /// </summary>
         private void InitializeComponent()
         {
-            richTextBox1 = new RichTextBox();
-            richTextBox2 = new RichTextBox();
-            email = new Label();
-            Register2 = new Button();
-            button1 = new Button();
+            Title = new RichTextBox();
+            Content = new RichTextBox();
+            labeltitle = new Label();
+            submit = new Button();
+            back = new Button();
             SuspendLayout();
             // 
-            // richTextBox1
+            // Title
             // 
-            richTextBox1.BackColor = Color.AntiqueWhite;
-            richTextBox1.Location = new Point(852, 153);
-            richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(576, 60);
-            richTextBox1.TabIndex = 9;
-            richTextBox1.Text = "";
+            Title.BackColor = Color.AntiqueWhite;
+            Title.Location = new Point(852, 153);
+            Title.Name = "Title";
+            Title.Size = new Size(576, 60);
+            Title.TabIndex = 9;
+            Title.Text = "";
             // 
-            // richTextBox2
+            // Content
             // 
-            richTextBox2.BackColor = Color.AntiqueWhite;
-            richTextBox2.Location = new Point(552, 234);
-            richTextBox2.Name = "richTextBox2";
-            richTextBox2.Size = new Size(1064, 739);
-            richTextBox2.TabIndex = 10;
-            richTextBox2.Text = "";
+            Content.BackColor = Color.AntiqueWhite;
+            Content.Location = new Point(552, 234);
+            Content.Name = "Content";
+            Content.Size = new Size(1064, 739);
+            Content.TabIndex = 10;
+            Content.Text = "";
             // 
-            // email
+            // labeltitle
             // 
-            email.AutoSize = true;
-            email.BackColor = Color.Transparent;
-            email.Font = new Font("Segoe UI", 22F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            email.ForeColor = Color.FromArgb(64, 0, 0);
-            email.Location = new Point(716, 153);
-            email.Name = "email";
-            email.Size = new Size(130, 60);
-            email.TabIndex = 12;
-            email.Text = "Title:";
+            labeltitle.AutoSize = true;
+            labeltitle.BackColor = Color.Transparent;
+            labeltitle.Font = new Font("Segoe UI", 22F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            labeltitle.ForeColor = Color.FromArgb(64, 0, 0);
+            labeltitle.Location = new Point(716, 153);
+            labeltitle.Name = "labeltitle";
+            labeltitle.Size = new Size(130, 60);
+            labeltitle.TabIndex = 12;
+            labeltitle.Text = "Title:";
             // 
-            // Register2
+            // submit
             // 
-            Register2.BackColor = Color.FromArgb(255, 192, 128);
-            Register2.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
-            Register2.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            Register2.Location = new Point(1144, 994);
-            Register2.Name = "Register2";
-            Register2.Size = new Size(228, 59);
-            Register2.TabIndex = 13;
-            Register2.Text = "Submit";
-            Register2.UseVisualStyleBackColor = false;
+            submit.BackColor = Color.FromArgb(255, 192, 128);
+            submit.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
+            submit.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            submit.Location = new Point(1144, 994);
+            submit.Name = "submit";
+            submit.Size = new Size(228, 59);
+            submit.TabIndex = 13;
+            submit.Text = "Submit";
+            submit.UseVisualStyleBackColor = false;
             // 
-            // button1
+            // back
             // 
-            button1.BackColor = Color.FromArgb(255, 192, 128);
-            button1.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
-            button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(791, 994);
-            button1.Name = "button1";
-            button1.Size = new Size(228, 59);
-            button1.TabIndex = 14;
-            button1.Text = "Back";
-            button1.UseVisualStyleBackColor = false;
+            back.BackColor = Color.FromArgb(255, 192, 128);
+            back.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
+            back.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            back.Location = new Point(791, 994);
+            back.Name = "back";
+            back.Size = new Size(228, 59);
+            back.TabIndex = 14;
+            back.Text = "Back";
+            back.UseVisualStyleBackColor = false;
             // 
-            // Form5
+            // Newrecipe
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.Untitled_design;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(2083, 1106);
-            Controls.Add(button1);
-            Controls.Add(Register2);
-            Controls.Add(email);
-            Controls.Add(richTextBox2);
-            Controls.Add(richTextBox1);
+            Controls.Add(back);
+            Controls.Add(submit);
+            Controls.Add(labeltitle);
+            Controls.Add(Content);
+            Controls.Add(Title);
             DoubleBuffered = true;
             FormBorderStyle = FormBorderStyle.SizableToolWindow;
-            Name = "Form5";
+            Name = "Newrecipe";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form5";
+            Text = "New Recipe";
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private RichTextBox richTextBox1;
-        private RichTextBox richTextBox2;
-        private Label email;
-        private Button Register2;
-        private Button button1;
+        private RichTextBox Title;
+        private RichTextBox Content;
+        private Label labeltitle;
+        private Button submit;
+        private Button back;
     }
 }

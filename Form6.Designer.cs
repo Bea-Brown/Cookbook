@@ -1,6 +1,6 @@
 ﻿namespace CookBook
 {
-    partial class Form6
+    partial class Recipepage
     {
         /// <summary>
         /// Required designer variable.
@@ -28,73 +28,73 @@
         /// </summary>
         private void InitializeComponent()
         {
-            richTextBox1 = new RichTextBox();
-            Register2 = new Button();
-            button1 = new Button();
-            button2 = new Button();
+            RecipeDisplay = new RichTextBox();
+            back = new Button();
+            Delete = new Button();
+            edit = new Button();
             SuspendLayout();
             // 
-            // richTextBox1
+            // RecipeDisplay
             // 
-            richTextBox1.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            richTextBox1.Location = new Point(278, 12);
-            richTextBox1.Name = "richTextBox1";
-            richTextBox1.Size = new Size(1530, 1057);
-            richTextBox1.TabIndex = 0;
-            richTextBox1.Text = "";
+            RecipeDisplay.Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            RecipeDisplay.Location = new Point(278, 12);
+            RecipeDisplay.Name = "RecipeDisplay";
+            RecipeDisplay.Size = new Size(1530, 1057);
+            RecipeDisplay.TabIndex = 0;
+            RecipeDisplay.Text = "";
             // 
-            // Register2
+            // back
             // 
-            Register2.BackColor = Color.FromArgb(255, 192, 128);
-            Register2.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
-            Register2.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            Register2.Location = new Point(12, 488);
-            Register2.Name = "Register2";
-            Register2.Size = new Size(228, 59);
-            Register2.TabIndex = 3;
-            Register2.Text = "Back";
-            Register2.UseVisualStyleBackColor = false;
+            back.BackColor = Color.FromArgb(255, 192, 128);
+            back.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
+            back.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            back.Location = new Point(12, 488);
+            back.Name = "back";
+            back.Size = new Size(228, 59);
+            back.TabIndex = 3;
+            back.Text = "Back";
+            back.UseVisualStyleBackColor = false;
             // 
-            // button1
+            // Delete
             // 
-            button1.BackColor = Color.FromArgb(255, 192, 128);
-            button1.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
-            button1.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.Location = new Point(1843, 488);
-            button1.Name = "button1";
-            button1.Size = new Size(228, 59);
-            button1.TabIndex = 4;
-            button1.Text = "Delete";
-            button1.UseVisualStyleBackColor = false;
+            Delete.BackColor = Color.FromArgb(255, 192, 128);
+            Delete.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
+            Delete.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            Delete.Location = new Point(1843, 488);
+            Delete.Name = "Delete";
+            Delete.Size = new Size(228, 59);
+            Delete.TabIndex = 4;
+            Delete.Text = "Delete";
+            Delete.UseVisualStyleBackColor = false;
             // 
-            // button2
+            // edit
             // 
-            button2.BackColor = Color.FromArgb(255, 192, 128);
-            button2.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
-            button2.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button2.Location = new Point(1843, 599);
-            button2.Name = "button2";
-            button2.Size = new Size(228, 59);
-            button2.TabIndex = 5;
-            button2.Text = "Edit";
-            button2.UseVisualStyleBackColor = false;
+            edit.BackColor = Color.FromArgb(255, 192, 128);
+            edit.FlatAppearance.BorderColor = Color.FromArgb(255, 192, 128);
+            edit.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            edit.Location = new Point(1843, 599);
+            edit.Name = "edit";
+            edit.Size = new Size(228, 59);
+            edit.TabIndex = 5;
+            edit.Text = "Edit";
+            edit.UseVisualStyleBackColor = false;
             // 
-            // Form6
+            // Recipepage
             // 
             AutoScaleDimensions = new SizeF(10F, 25F);
             AutoScaleMode = AutoScaleMode.Font;
             BackgroundImage = Properties.Resources.Untitled_design;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(2083, 1106);
-            Controls.Add(button2);
-            Controls.Add(button1);
-            Controls.Add(Register2);
-            Controls.Add(richTextBox1);
+            Controls.Add(edit);
+            Controls.Add(Delete);
+            Controls.Add(back);
+            Controls.Add(RecipeDisplay);
             DoubleBuffered = true;
             FormBorderStyle = FormBorderStyle.SizableToolWindow;
-            Name = "Form6";
+            Name = "Recipepage";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "Form6";
+            Text = "Recipe";
             WindowState = FormWindowState.Maximized;
             Load += Form6_Load;
             ResumeLayout(false);
@@ -102,9 +102,9 @@
 
         #endregion
 
-        private RichTextBox richTextBox1;
-        private Button Register2;
-        private Button button1;
-        private Button button2;
+        private RichTextBox RecipeDisplay;
+        private Button back;
+        private Button Delete;
+        private Button edit;
     }
 }

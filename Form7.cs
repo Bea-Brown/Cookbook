@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CookBook
 {
-    public partial class Form7 : Form
+    public partial class Editrecipe : Form
     {
-        public Form7()
+        public Editrecipe()
         {
             InitializeComponent();
         }
