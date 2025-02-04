@@ -23,3 +23,29 @@ C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Business Soft\Coo
 C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Business Soft\CookBook\obj\Debug\net8.0-windows\CookBook.Form6.resources
 C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Business Soft\CookBook\obj\Debug\net8.0-windows\CookBook.Form7.resources
 C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Business Soft\CookBook\obj\Debug\net8.0-windows\CookBook.Form8.resources
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.Register.resources
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.Form3.resources
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.Myrecipes.resources
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.Newrecipe.resources
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.Recipepage.resources
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.Editrecipe.resources
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.Properties.Resources.resources
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.UserControl1.resources
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.csproj.GenerateResource.cache
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.AssemblyInfoInputs.cache
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.AssemblyInfo.cs
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.csproj.CoreCompileInputs.cache
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.sourcelink.json
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.dll
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\refint\CookBook.dll
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.pdb
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\bin\Debug\net8.0-windows\CookBook.exe
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\bin\Debug\net8.0-windows\CookBook.deps.json
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\bin\Debug\net8.0-windows\CookBook.runtimeconfig.json
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\bin\Debug\net8.0-windows\CookBook.dll
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\bin\Debug\net8.0-windows\CookBook.pdb
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.genruntimeconfig.cache
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\ref\CookBook.dll
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.Form1.resources
+C:\Users\beale\OneDrive - Columbia College of Missouri\Desktop\Cook\obj\Debug\net8.0-windows\CookBook.LoginForm.resources
