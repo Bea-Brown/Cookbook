@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|c:\\users\\beale\\onedrive - columbia college of missouri\\desktop\\cook\\newrecipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|solutionrelative:newrecipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|c:\\users\\beale\\onedrive - columbia college of missouri\\desktop\\cook\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|c:\\users\\beale\\onedrive - columbia college of missouri\\desktop\\cook\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|c:\\users\\beale\\onedrive - columbia college of missouri\\desktop\\cook\\newrecipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|solutionrelative:newrecipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|c:\\users\\beale\\onedrive - columbia college of missouri\\desktop\\cook\\myrecipesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|solutionrelative:myrecipesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|c:\\users\\beale\\onedrive - columbia college of missouri\\desktop\\cook\\myrecipesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|solutionrelative:myrecipesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|c:\\users\\beale\\onedrive - columbia college of missouri\\desktop\\cook\\myrecipesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|solutionrelative:myrecipesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|c:\\users\\beale\\onedrive - columbia college of missouri\\desktop\\cook\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|c:\\users\\beale\\onedrive - columbia college of missouri\\desktop\\cook\\recipedetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|solutionrelative:recipedetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|c:\\users\\beale\\onedrive - columbia college of missouri\\desktop\\cook\\newrecipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|solutionrelative:newrecipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0312F4E7-595C-456A-9F5D-73AF5B9944E7}|CookBook.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,41 +34,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\RegisterForm.cs",
-              "RelativeDocumentMoniker": "RegisterForm.cs",
-              "ToolTip": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\RegisterForm.cs [Design]",
-              "RelativeToolTip": "RegisterForm.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "MyrecipesForm.cs",
+              "DocumentMoniker": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\MyrecipesForm.cs",
+              "RelativeDocumentMoniker": "MyrecipesForm.cs",
+              "ToolTip": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\MyrecipesForm.cs*",
+              "RelativeToolTip": "MyrecipesForm.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T03:06:33.62Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-02-10T21:35:26.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\RegisterForm.cs",
+              "RelativeToolTip": "RegisterForm.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAFMAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T21:30:21.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MyrecipesForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\MyrecipesForm.cs",
               "RelativeDocumentMoniker": "MyrecipesForm.cs",
               "ToolTip": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\MyrecipesForm.cs [Design]*",
               "RelativeToolTip": "MyrecipesForm.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T03:03:36.337Z",
+              "WhenOpened": "2025-02-10T21:47:00.452Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "RecipeDetailForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\RecipeDetailForm.cs",
+              "RelativeDocumentMoniker": "RecipeDetailForm.cs",
+              "ToolTip": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\RecipeDetailForm.cs [Design]",
+              "RelativeToolTip": "RecipeDetailForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T22:17:44.146Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "NewRecipeForm.cs",
               "DocumentMoniker": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\NewRecipeForm.cs",
               "RelativeDocumentMoniker": "NewRecipeForm.cs",
-              "ToolTip": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\NewRecipeForm.cs*",
-              "RelativeToolTip": "NewRecipeForm.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAADcAAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\NewRecipeForm.cs",
+              "RelativeToolTip": "NewRecipeForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAYAAADSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T03:06:03.26Z",
               "EditorCaption": ""
@@ -76,61 +102,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MyrecipesForm.cs",
-              "DocumentMoniker": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\MyrecipesForm.cs",
-              "RelativeDocumentMoniker": "MyrecipesForm.cs",
-              "ToolTip": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\MyrecipesForm.cs*",
-              "RelativeToolTip": "MyrecipesForm.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T21:16:02.563Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NewRecipeForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\NewRecipeForm.cs",
-              "RelativeDocumentMoniker": "NewRecipeForm.cs",
-              "ToolTip": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\NewRecipeForm.cs [Design]*",
-              "RelativeToolTip": "NewRecipeForm.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T21:15:55.374Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "dad39941-1f51-4051-93ed-bd89afae80eb",
-        "Display": 0,
-        "X": 85,
-        "Y": 147,
-        "Width": 1465,
-        "Height": 901,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterForm.cs",
+              "Title": "RegisterForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\RegisterForm.cs",
               "RelativeDocumentMoniker": "RegisterForm.cs",
-              "ToolTip": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\RegisterForm.cs",
-              "RelativeToolTip": "RegisterForm.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\beale\\OneDrive - Columbia College of Missouri\\Desktop\\Cook\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "RegisterForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T03:06:36.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T03:06:33.62Z"
             }
           ]
         }
